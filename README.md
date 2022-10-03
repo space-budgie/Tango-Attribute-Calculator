@@ -2,6 +2,8 @@
 
 Attribute Calculator is a Tango device that allows the user to input mathematical formulas, where the variables are external Tango attributes. This formula is then stored as an attribute in this device, and the result is calculated whenever the attribute is read. The new attribute can also be plotted with Taurustrend, used for other Tango devices, etc.
 
+This application was originally developed for the MAX IV Laboratory in Lund, Sweden. It is maintained on the MAX IV internal GitLab and periodically updated in this public repository.
+
 ## Usage
 
 ### Creating a Device
